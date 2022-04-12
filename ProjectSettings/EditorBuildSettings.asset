@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Fly Over.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Scenes/Tunnel.unity
+    guid: 34890d08f43b3f046ab61b92f7ff329a
+  - enabled: 1
+    path: Assets/Scenes/Zig Zag.unity
+    guid: b14d81894ab98ec4db6e20e3421ed1c1
   - enabled: 1
     path: Assets/Scenes/Under.unity
-    guid: 9d97de3d54a6c2f488e636b2be49f1ab
+    guid: 076c0446949be0e4994cf6a50edf3aa3
+  - enabled: 1
+    path: Assets/Scenes/Fly Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
